@@ -47,3 +47,15 @@ On initial page load, while on the server and inside `getInitialProps`, we invok
 
 Note: Do not be alarmed that you see two renders being executed. Apollo recursively traverses the React render tree looking for Apollo query components. When it has done that, it fetches all these queries and then passes the result to a cache. This cache is then used to render the data on the server side (another React render).
 https://www.apollographql.com/docs/react/api/react-ssr/#getdatafromtree
+
+
+
+http://integrothemes.com/arlo/index-animation.html
+
+https://react.semantic-ui.com/
+
+https://github.com/Semantic-Org/Semantic-UI-React/blob/master/docs/src/layouts/HomepageLayout.js
+
+https://nextjs.org/docs#populating-head
+
+https://github.com/zeit/next.js/blob/canary/examples/with-semantic-ui/pages/index.js

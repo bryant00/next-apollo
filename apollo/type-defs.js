@@ -12,6 +12,7 @@ export const typeDefs = gql`
         month: String!
         year: String!
         dateString: String!
+        timeString: String!
     }
 
     type Query {
